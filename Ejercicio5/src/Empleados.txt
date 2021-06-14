@@ -1,0 +1,17 @@
+Javier,Vera,22-08-1998,45852.23
+Raul,Gomez,23-05-2000,48234.23
+Lucas,Canela,24-06-1997,47862.74
+Stefano,Rodriguez,05-05-1993,78325.00
+Mirtha,Lener,06-01-1980,78421.00
+Anabel,Quina,01-02-1993,98246.20
+Erika,Dominguez,02-06-1995,68123.15
+Carla,Orellana,07-09-1996,95321.16
+Belen,Lopez,11-09-1994,35678.08
+Carlos,Sanchez,23-04-1990,45678.05
+Juan,Gomez,10-03-1984,45678.04
+Agustin,Lopez,05-09-1994,25678.08
+Jesica,Romero,10-02-1976,5678.02
+Belen,Varela,07-04-1999,65678.08
+Juan,Alvarez,16-10-1992,65678.08
+Carolina,Acevedo,22-05-1998,65678.08
+Leandro,Martinez,18-09-1980,165678.08
